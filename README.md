@@ -1,10 +1,4 @@
 
-# Music Equalizer Effect in CSS and JavaScript
-
-## Step-by-Step Video:
-
-[YouTube-Link => Music Equalizer Effect](https://youtu.be/UcFgalsE34Q)
-
 ## Source Code:
 
 ```html
